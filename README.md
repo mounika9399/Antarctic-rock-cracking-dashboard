@@ -46,5 +46,3 @@ The goal is to identify how variables like wind speed, temperature, solar irradi
 
 ---
 
-## 📂 Folder Structure
-
