@@ -33,13 +33,14 @@ The goal is to identify how variables like wind speed, temperature, solar irradi
 
 Here are sample views from the dashboards:
 
-### 📌 AE Events & Energy Over Time
+### 📌 AE Events Over Time
 ![Dashboard 1](./screenshots/dashboard_1.png)
 
-### 📌 Boxplot with Outlier Detection
+### 📌 Boxplot with Outliers
 ![Dashboard 2](./screenshots/dashboard_2.png)
 
-> *(Add your actual screenshots to the `/screenshots` folder to make this work)*
+### 📌 AE Hits vs. Humidity
+![Dashboard 3](./screenshots/dashboard_3.png)
 
 ---
 
@@ -54,9 +55,9 @@ Here are sample views from the dashboards:
 ---
 
 ## 🔗 Project Links
-
 - 📈 **[Interactive Tableau Dashboard](https://public.tableau.com/app/profile/mounika.chundru/viz/bigproject_17315579495390/Story1)**  
-- 📊 **[Project Presentation Slides](https://docs.google.com/presentation/d/1nNJ5ReOMTWvU01a-yux7DhdcLOxmP3o3MKYBpBeFQBM/edit)**  
+- 📊 **[Project Presentation Slides](https://docs.google.com/presentation/d/1nNJ5ReOMTWvU01a-yux7DhdcLOxmP3o3MKYBpBeFQBM/edit)**
+
 
 ---
 
