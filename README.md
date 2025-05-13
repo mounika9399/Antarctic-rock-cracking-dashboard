@@ -29,21 +29,6 @@ The goal is to identify how variables like wind speed, temperature, solar irradi
 
 ---
 
-## 🖼️ Screenshots
-
-Here are sample views from the dashboards:
-
-### 📌 AE Events Over Time
-![Dashboard 1](./screenshots/dashboard_1.png)
-
-### 📌 Boxplot with Outliers
-![Dashboard 2](./screenshots/dashboard_2.png)
-
-### 📌 AE Hits vs. Humidity
-![Dashboard 3](./screenshots/dashboard_3.png)
-
----
-
 ## 🧪 Peer Evaluation Highlights
 
 - 🔹 **Usefulness Score:** 8/10  
