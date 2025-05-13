@@ -13,7 +13,8 @@ Peer-reviewed with usability testing. Feedback improved dashboard clarity and in
 
 ## 🔗 Project Links
 - 📊 [Presentation Slides](https://docs.google.com/presentation/d/1nNJ5ReOMTWvU01a-yux7DhdcLOxmP3o3MKYBpBeFQBM/edit)
-- 📈 Tableau Dashboard: [Link goes here]
+- 📈 Tableau Dashboard: [https://public.tableau.com/app/profile/mounika.chundru/viz/bigproject_17315579495390/Story1](https://public.tableau.com/app/profile/mounika.chundru/viz/bigproject_17315579495390/Story1
+)
 
 ## 👩‍🔬 Contributors
 - Mounika Chundru
